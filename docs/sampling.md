@@ -46,7 +46,7 @@ below:
 ```scala
 import io.janstenpickle.trace4cats.kernel.SpanSampler
 
-SpanSampler.always
+SpanSampler.never
 ```
 
 ### Probabilistic
